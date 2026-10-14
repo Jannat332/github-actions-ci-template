@@ -1,0 +1,2 @@
+# Minimal application dependencies
+# Kept standard to guarantee instant build in any CI runner
